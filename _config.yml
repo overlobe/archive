@@ -16,7 +16,7 @@
 title: Archive
 email: hello@isomorphou.us
 description: >- # this means to ignore newlines until "baseurl:"
-  An archive of the work of Isomorphou.
+  An archive of the work of overlobe -> isomorphous
 baseurl: "/archive" # the subpath of your site, e.g. /blog
 url: "https://overlobe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
