@@ -5,11 +5,7 @@ author: "Jeremy Yuille"
 categories: poetry
 ---
 
-<div class="lightbox">
-  <a href="/assets/images/artifacts-1.jpg" data-lightbox="artifacts" data-title="A person pointing at a thing. Underwater.">
-    <img src="/assets/images/artifacts-1.jpg" alt="A person pointing at a thing. Underwater.">
-  </a>
-</div>
+![A person pointing at a thing. Underwater.](/assets/images/artifacts-1.jpg)
 ##### An invocation of the artifact. <br />Unpacking their ability to help us <br />engage with and make sense of uncertainty.
 
 # ART
@@ -38,11 +34,7 @@ Engagement shaping uncertainty to acceptable proportions,
 shifting vast sections of the unknown into invisible dimensions  
 so that we can, at least, begin.
 
-<div class="lightbox">
-  <a href="/assets/images/artifacts-2.png" data-lightbox="artifacts" data-title="Landscape of things. Including a person. And a bucket.">
-    <img src="/assets/images/artifacts-2.png" alt="Landscape of things. Including a person. And a bucket.">
-  </a>
-</div>
+![Landscape of things. Including a person. And a bucket.](/assets/images/artifacts-2.png)
 
 # IF
 
@@ -70,11 +62,7 @@ Here. Now.
 
 > 'If' takes us there, action brings a part of us back here. <br />The secret to the art is: part of us is just enough.
 
-<div class="lightbox">
-  <a href="/assets/images/artifacts-3.jpg" data-lightbox="artifacts" data-title="A thing shaped and marked as such. By a person.">
-    <img src="/assets/images/artifacts-3.jpg" alt="A thing shaped and marked as such. By a person.">
-  </a>
-</div>
+![A thing shaped and marked as such. By a person.](/assets/images/artifacts-3.jpg)
 
 # FACT
 
