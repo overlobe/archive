@@ -5,7 +5,7 @@ author: "Jeremy Yuille"
 categories: poetry
 ---
 
-![A person pointing at a thing. Underwater.](/assets/images/artifacts-1.jpg)
+![A person pointing at a thing. Underwater.](/archive/assets/images/artifacts-1.jpg)
 ##### An invocation of the artifact. <br />Unpacking their ability to help us <br />engage with and make sense of uncertainty.
 
 # ART
@@ -34,7 +34,7 @@ Engagement shaping uncertainty to acceptable proportions,
 shifting vast sections of the unknown into invisible dimensions  
 so that we can, at least, begin.
 
-![Landscape of things. Including a person. And a bucket.](/assets/images/artifacts-2.png)
+![Landscape of things. Including a person. And a bucket.](/archive/assets/images/artifacts-2.png)
 
 # IF
 
@@ -62,7 +62,7 @@ Here. Now.
 
 > 'If' takes us there, action brings a part of us back here. <br />The secret to the art is: part of us is just enough.
 
-![A thing shaped and marked as such. By a person.](/assets/images/artifacts-3.jpg)
+![A thing shaped and marked as such. By a person.](/archive/assets/images/artifacts-3.jpg)
 
 # FACT
 
